@@ -1,0 +1,19 @@
+{   
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Framer Syntax 2",
+    "window.zoomLevel": 1,
+    "editor.tabSize": 2,
+    "workbench.iconTheme": "vscode-great-icons","tslint.autoFixOnSave": true,    
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    }
+}
